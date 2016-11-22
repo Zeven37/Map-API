@@ -1,0 +1,9 @@
+.contact-title{
+    border-left: 4px solid #fed900;
+    padding-left: 15px;
+    font-size:24px;
+}
+#container{
+    width: 1000px;
+    height: 616px;
+}
